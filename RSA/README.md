@@ -21,6 +21,3 @@ python rsa.py
 Enter message: hello
 Encrypted: [1234, 5678, ...]
 Decrypted: hello
-
-## Author
-Harshil Gohel
